@@ -133,7 +133,7 @@ p.subtitle {
 
 #dash {
     margin-top: 10%;
-    margin-left: 34%;
+    margin-left: 38%;
     animation: chatblips 0.5s ease-in-out 3.6s forwards; /* assign animation to dash with 'chatblips' as keyframe name */
     opacity: 0;
     z-index: 2;
@@ -141,7 +141,7 @@ p.subtitle {
 
 #eth {
     margin-top: 15%;
-    margin-left: 18%;
+    margin-left: 26%;
     animation: chatblips 0.5s ease-in-out 2.7s forwards; /* assign animation to eth with 'chatblips' as keyframe name */
     opacity: 0;
     z-index: 2;
@@ -149,7 +149,7 @@ p.subtitle {
 
 #iota {
     margin-top: 20%;
-    margin-left: 2%;
+    margin-left: 14%;
     animation: chatblips 0.5s ease-in-out 1.9s forwards; /* assign animation to iota with 'chatblips' as keyframe name */
     opacity: 0;
     z-index: 2;
@@ -157,7 +157,7 @@ p.subtitle {
 
 #titan {
     margin-top: 25%;
-    margin-left: -16%;
+    margin-left: 2%;
     animation: chatblips 0.5s ease-in-out 0.8s forwards; /* assign animation to iota with 'chatblips' as keyframe name */
     opacity: 0;
     z-index: 2;
