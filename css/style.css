@@ -11,8 +11,20 @@ html {
     margin: 0;
     margin-top:1.9em;
 }
-
-
+#secondaryTitle{
+    color:black;
+}
+#secondaryTitle a{
+    color:black;
+    text-decoration:none;
+}
+#secondaryTitle a:hover{
+    text-decoration:underline;
+    color:rgb(50,175,237);
+}
+#secondaryTitle a:visited{
+    color:black;
+}
 #home-container {
     padding-top: 6em;
     display: grid;
